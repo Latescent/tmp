@@ -1,0 +1,12 @@
+{
+  "success": "عملیات با موفقیت انجام شد",
+  "invalid-mobile-number": "شماره موبایل نامعتبر است. فرمت‌های قابل قبول: '09xxxxxxxxx'، '+989xxxxxxxxx' یا '9xxxxxxxxx'.",
+  "invalid-national-code": "کدملی معتبر نیست.",
+  "otp-wait": "لطفا برای ارسال درخواست کد اعتبار سنجی، پس از {remaining_time} ثانیه تلاش کنید.",
+  "otp-code": "کد ورود به آواپی:  {code}",
+  "otp-send": "کد اعتبارسنجی با موفقیت ارسال شد",
+  "otp-invalid": "کد اعتبارسنجی معتبر نیست",
+  "invalid-file-type": "فرمت بعضی از فایل\u200Cها معتبر نیست. تنها فرمت\u200Cهای jpg، jpeg، png مجاز هستند.",
+  "files-required": "حداقل یک فایل را انتخاب کنید.",
+  "files-types-count-mismatch": "تعداد فایل و نوع آن‌ها مطابقت ندارد."
+}

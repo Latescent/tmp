@@ -1,0 +1,9 @@
+api
+app
+application
+config
+domain
+infrastructure
+lib
+services
+shared
